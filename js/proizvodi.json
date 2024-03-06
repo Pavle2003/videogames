@@ -1,0 +1,626 @@
+[
+    {
+        "ID":"1",
+        "picture":{
+            "src":"images/2K24.jpg",
+            "alt":"2K24"
+        },
+        "stars":{
+            "brStars":"5",
+            "count":" (92)"
+        },
+        "console":"PlayStation 4",
+        "name":"NBA 2K24",
+        "price":{
+            "old":"9999 RSD",
+            "new":"8990 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"PS4",
+        "genres":"Sport",
+        "platformID":2,
+        "genreID":2,
+        "manufacturerID":1
+    },
+    {
+        "ID":"2",
+        "picture":{
+            "src":"images/Fortnite.jpg",
+            "alt":"Fortnite"
+        },
+        "stars":{
+            "brStars":"5",
+            "count":" (124)"
+        },
+        "console":"PlayStation 4",
+        "name":"Fortnite",
+        "price":{
+            "old":"",
+            "new":"3290 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"PS4",
+        "genres":"Battle Royale",
+        "platformID":2,
+        "genreID":5,
+        "manufacturerID":5
+    },
+    {
+        "ID":"3",
+        "picture":{
+            "src":"images/ResidentEvil4.jpg",
+            "alt":"ResidentEvil4"
+        },
+        "stars":{
+            "brStars":"4",
+            "count":" (49)"
+        },
+        "console":"PlayStation 4",
+        "name":"Resident Evil 4",
+        "price":{
+            "old":"",
+            "new":"6090 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"PS4",
+        "genres":"Horror",
+        "platformID":2,
+        "genreID":3,
+        "manufacturerID":6
+    },
+    {
+        "ID":"4",
+        "picture":{
+            "src":"images/MK12.webp",
+            "alt":"MK12"
+        },
+        "stars":{
+            "brStars":"4",
+            "count":" (33)"
+        },
+        "console":"PlayStation 4",
+        "name":"Mortal Kombat",
+        "price":{
+            "old":"",
+            "new":"5550 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"PS4",
+        "genres":"Story Mode",
+        "platformID":2,
+        "genreID":4,
+        "manufacturerID":6
+    },
+    {
+        "ID":"5",
+        "picture":{
+            "src":"images/legoNinjago.png",
+            "alt":"legoNinjago"
+        },
+        "stars":{
+            "brStars":"3",
+            "count":" (10)"
+        },
+        "console":"PlayStation 4",
+        "name":"lego Ninjago",
+        "price":{
+            "old":"",
+            "new":"2000 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"PS4",
+        "genres":"Children's games",
+        "platformID":2,
+        "genreID":5,
+        "manufacturerID":6
+    },
+    {
+        "ID":"6",
+        "picture":{
+            "src":"images/Fishing.jpg",
+            "alt":"Fishing"
+        },
+        "stars":{
+            "brStars":"5",
+            "count":" (55)"
+        },
+        "console":"PlayStation 4",
+        "name":"Pro Fishing Simulator",
+        "price":{
+            "old":"4999 RSD",
+            "new":"3990 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"PS4",
+        "genres":"Children's games",
+        "platformID":2,
+        "genreID":2,
+        "manufacturerID":6
+    },
+    {
+        "ID":"7",
+        "picture":{
+            "src":"images/FC24.jpg",
+            "alt":"Fifa"
+        },
+        "stars":{
+            "brStars":"4",
+            "count":" (225)"
+        },
+        "console":"PlayStation 4",
+        "name":"Fifa 24",
+        "price":{
+            "old":"",
+            "new":"3990 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"PS4",
+        "genres":"Sport",
+        "platformID":2,
+        "genreID":2,
+        "manufacturerID":2
+    },
+    {
+        "ID":"8",
+        "picture":{
+            "src":"images/dyingLight2.jpg",
+            "alt":"dyingLight2"
+        },
+        "stars":{
+            "brStars":"5",
+            "count":" (36)"
+        },
+        "console":"PlayStation 5",
+        "name":"Dying Light 2",
+        "price":{
+            "old":"",
+            "new":"2590 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"PS5",
+        "genres":"Horror",
+        "platformID":1,
+        "genreID":3,
+        "manufacturerID":6
+    },
+    {
+        "ID":"9",
+        "picture":{
+            "src":"images/Naruto.jpg",
+            "alt":"dyingLight2"
+        },
+        "stars":{
+            "brStars":"5",
+            "count":" (21)"
+        },
+        "console":"PlayStation 5",
+        "name":"Naruto",
+        "price":{
+            "old":"4999 RSD",
+            "new":"2299 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"PS5",
+        "genres":"Fighting games",
+        "platformID":1,
+        "genreID":4,
+        "manufacturerID":3
+    },
+    {
+        "ID":"10",
+        "picture":{
+            "src":"images/persona5.jpg",
+            "alt":"dyingLight2"
+        },
+        "stars":{
+            "brStars":"2",
+            "count":" (3)"
+        },
+        "console":"PlayStation 5",
+        "name":"Persona 5 Royal",
+        "price":{
+            "old":"4999 RSD",
+            "new":"1790 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"PS5",
+        "genres":"Fighting games",
+        "platformID":1,
+        "genreID":4,
+        "manufacturerID":6
+    },
+    {
+        "ID":"11",
+        "picture":{
+            "src":"images/spider-man.jpg",
+            "alt":"Spider-man"
+        },
+        "stars":{
+            "brStars":"4",
+            "count":" (73)"
+        },
+        "console":"PlayStation 5",
+        "name":"Spider-man",
+        "price":{
+            "old":"9999 RSD",
+            "new":"8890 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"PS5",
+        "genres":"Story Mode",
+        "platformID":1,
+        "genreID":6,
+        "manufacturerID":6
+    },
+    {
+        "ID":"12",
+        "picture":{
+            "src":"images/tekken8r.png",
+            "alt":"Tekken"
+        },
+        "stars":{
+            "brStars":"5",
+            "count":" (55)"
+        },
+        "console":"PlayStation 5",
+        "name":"Tekken 8",
+        "price":{
+            "old":"",
+            "new":"8890 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"PS5",
+        "genres":"Fighting games",
+        "platformID":1,
+        "genreID":4,
+        "manufacturerID":3
+    },
+    {
+        "ID":"13",
+        "picture":{
+            "src":"images/UFC5.jpg",
+            "alt":"UFC"
+        },
+        "stars":{
+            "brStars":"4",
+            "count":" (70)"
+        },
+        "console":"PlayStation 5",
+        "name":"UFC 5",
+        "price":{
+            "old":"",
+            "new":"4990 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"PS5",
+        "genres":"Sport",
+        "platformID":1,
+        "genreID":2,
+        "manufacturerID":2
+    },
+    {
+        "ID":"14",
+        "picture":{
+            "src":"images/WWE.webp",
+            "alt":"WWE"
+        },
+        "stars":{
+            "brStars":"3",
+            "count":" (31)"
+        },
+        "console":"PlayStation 5",
+        "name":"WWE 2k24",
+        "price":{
+            "old":"",
+            "new":"8990 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"PS5",
+        "genres":"Sport",
+        "platformID":1,
+        "genreID":4,
+        "manufacturerID":1
+    },
+    {
+        "ID":"15",
+        "picture":{
+            "src":"images/FARCRY6.jpg",
+            "alt":"FARCRY6"
+        },
+        "stars":{
+            "brStars":"4",
+            "count":" (44)"
+        },
+        "console":"Xbox One",
+        "name":"FAR CRY 6",
+        "price":{
+            "old":"",
+            "new":"5990 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"XboxOne",
+        "genres":"Sport",
+        "platformID":3,
+        "genreID":6,
+        "manufacturerID":6
+    },
+    {
+        "ID":"16",
+        "picture":{
+            "src":"images/Forza.jpg",
+            "alt":"Forza"
+        },
+        "stars":{
+            "brStars":"5",
+            "count":" (67)"
+        },
+        "console":"Xbox One",
+        "name":"Forza 5",
+        "price":{
+            "old":"6590 RSD",
+            "new":"5990 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"XboxOne",
+        "genres":"Sport",
+        "platformID":5,
+        "genreID":2,
+        "manufacturerID":5
+    },
+    {
+        "ID":"17",
+        "picture":{
+            "src":"images/GearsOfWar.webp",
+            "alt":"GearsOfWar"
+        },
+        "stars":{
+            "brStars":"5",
+            "count":" (60)"
+        },
+        "console":"Xbox One",
+        "name":"Gears Of War",
+        "price":{
+            "old":"",
+            "new":"4990 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"XboxOne",
+        "genres":"Sport",
+        "platformID":5,
+        "genreID":1,
+        "manufacturerID":6
+    },
+    {
+        "ID":"18",
+        "picture":{
+            "src":"images/Minecraft.webp",
+            "alt":"Minecraft"
+        },
+        "stars":{
+            "brStars":"5",
+            "count":" (178)"
+        },
+        "console":"Xbox One",
+        "name":"Minecraft",
+        "price":{
+            "old":"",
+            "new":"2990 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"XboxOne",
+        "genres":"Children's games",
+        "platformID":5,
+        "genreID":5,
+        "manufacturerID":5
+    },
+    {
+        "ID":"19",
+        "picture":{
+            "src":"images/GTASA.jpg",
+            "alt":"GTASA"
+        },
+        "stars":{
+            "brStars":"5",
+            "count":" (420)"
+        },
+        "console":"Xbox360",
+        "name":"GTA San Andreas",
+        "price":{
+            "old":"",
+            "new":"1199 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"Xbox360",
+        "genres":"Story Mode",
+        "platformID":6,
+        "genreID":6,
+        "manufacturerID":4
+    },
+    {
+        "ID":"20",
+        "picture":{
+            "src":"images/GTA5.jpg",
+            "alt":"GTA5"
+        },
+        "stars":{
+            "brStars":"5",
+            "count":" (369)"
+        },
+        "console":"Xbox One",
+        "name":"Grand Theft Auto 5",
+        "price":{
+            "old":"",
+            "new":"2599 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"Xbox360",
+        "genres":"Story Mode",
+        "platformID":6,
+        "genreID":1,
+        "manufacturerID":4
+    },
+    {
+        "ID":"21",
+        "picture":{
+            "src":"images/halo4.jpg",
+            "alt":"halo4"
+        },
+        "stars":{
+            "brStars":"4",
+            "count":" (23)"
+        },
+        "console":"Xbox One",
+        "name":"HALO 4",
+        "price":{
+            "old":"",
+            "new":"2000 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"Xbox360",
+        "genres":"Story Mode",
+        "platformID":6,
+        "genreID":6,
+        "manufacturerID":5
+    },
+    {
+        "ID":"22",
+        "picture":{
+            "src":"images/MortalKombat1.jpg",
+            "alt":"MortalKombat1"
+        },
+        "stars":{
+            "brStars":"5",
+            "count":" (83)"
+        },
+        "console":"Xbox Series X",
+        "name":"Mortal Kombat 1",
+        "price":{
+            "old":"",
+            "new":"9999 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"Xbox Series X",
+        "genres":"Fighting games",
+        "platformID":3,
+        "genreID":4,
+        "manufacturerID":3
+    },
+    {
+        "ID":"23",
+        "picture":{
+            "src":"images/PayDay3.jpg",
+            "alt":"PayDay3"
+        },
+        "stars":{
+            "brStars":"3",
+            "count":" (33)"
+        },
+        "console":"Xbox Series S",
+        "name":"Pay Day 3",
+        "price":{
+            "old":"6390 RSD",
+            "new":"4500 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"Xbox Series S",
+        "genres":"Action games",
+        "platformID":4,
+        "genreID":1,
+        "manufacturerID":6
+    },
+    {
+        "ID":"24",
+        "picture":{
+            "src":"images/Overwatch.jpg",
+            "alt":"Overwatch"
+        },
+        "stars":{
+            "brStars":"5",
+            "count":" (91)"
+        },
+        "console":"Xbox One",
+        "name":"Overwatch",
+        "price":{
+            "old":"",
+            "new":"2499 RSD"
+        },
+        "button": {
+            "link": "#",
+            "text": "Add to cart"
+          },
+        "platforma":"Xbox One",
+        "genres":"Action games",
+        "platformID":5,
+        "genreID":1,
+        "manufacturerID":6
+    }
+]

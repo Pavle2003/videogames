@@ -1,0 +1,44 @@
+[
+    {
+        "id":"1",
+        "VGames":"VIDEO GAMES",
+        "type":"Console",
+        "description":"Sony PlayStation 5 console - play without limits. Admire the incredible graphics and experience brand new features brought to the PlayStation 5 console. Your journey starts here! The purchase of the console is possible with a payment card Visa, Master and paypal, without the possibility of paying by check.",
+        "shop_bt": {
+            "link": "#",
+            "text": "Shop Now"
+          },
+        "picture": {
+            "src": "images/PS5Transparent.png",
+            "alt": "PS5"
+        }
+    },
+    {
+        "id":"2",
+        "VGames":"VIDEO GAMES",
+        "type":"games",
+        "description":"Experience the next chapter in the longest video game story with 32 redesigned, unique fighters. The all-new 'Heat' system is designed to crush your opponents. Enjoy graphics powered by Unreal Engine 5. With diverse single-player content such as the all-new Arcade Quest mode and an in-depth customization system for playable characters and avatars, TEKKEN 8 is the most exciting experience yet.",
+        "shop_bt": {
+            "link": "#",
+            "text": "Shop Now"
+          },
+        "picture": {
+            "src": "images/tekken8r.png",
+            "alt": "Tekken"
+        }
+    },
+    {
+        "id":"3",
+        "VGames":"VIDEO GAMES",
+        "type":"controller",
+        "description":"GET THE LATEST CONTROLLERS .You can get any controller for any console. We also have joysticks for older consoles",
+        "shop_bt": {
+            "link": "#",
+            "text": "Shop Now"
+          },
+        "picture": {
+            "src": "images/XboxTransparent.png",
+            "alt": "Xbox"
+        }
+    }
+]

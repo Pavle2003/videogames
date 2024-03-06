@@ -1,0 +1,32 @@
+[
+    {
+        "ID":1,
+        "label": "Action games",
+        "count": " (5)" 
+    },
+    {
+        "ID":2,
+        "label": "Sports",
+        "count": " (5)" 
+    },
+    { 
+        "ID":3,
+        "label": "Horror", 
+        "count": " (2)" 
+    },
+    {
+        "ID":4,
+        "label": "Fighting games", 
+        "count": " (6)" 
+    },
+    { 
+        "ID":5,
+        "label": "Children's games", 
+        "count": " (3)" 
+    },
+    { 
+        "ID":6,
+        "label": "Story mode", 
+        "count": " (4)" 
+    }
+]

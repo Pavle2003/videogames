@@ -1,0 +1,32 @@
+[
+    {
+        "ID":1,
+        "picture": {
+            "src": "images/people1.png",
+            "alt": "Gamer1"
+        },
+        "description":"Incredible value for top-tier gaming gear! As someone who's deeply immersed in the gaming world, finding your store has been an absolute game-changer. From consoles to controllers, every product boasts quality craftsmanship at prices that don't leave my wallet in tears. It's refreshing to finally shop at a place where I can deck out my gaming setup without emptying my bank account. Thank you for providing such an exceptional gaming experience at an unbeatable value!",
+        "name": "Michael Rodriguez",
+        "work": "Web Developer"
+    },
+    {
+        "ID":2,
+        "picture": {
+            "src": "images/people2.png",
+            "alt": "Gamer2"
+        },
+        "description":"Revolutionizing the gaming scene, one affordable product at a time! Your store has become synonymous with quality and affordability in the gaming community, and for good reason. As a dedicated gamer, I'm constantly seeking products that enhance my gameplay without burning a hole in my pocket. Your extensive selection of gaming gear, coupled with prices that seem too good to be true, has made you my ultimate gaming destination. Whether it's upgrading my console or snagging the latest controller, I can always count on your store to deliver exceptional value without compromising on performance. Thank you for making high-quality gaming accessible to everyone!",
+        "name": "David Miller",
+        "work": "Bachelor of Economics"
+    },
+    {
+        "ID":2,
+        "picture": {
+            "src": "images/people3.png",
+            "alt": "Gamer3"
+        },
+        "description":"Unbeatable quality, unmatched prices! Your store has become my go-to destination for all things gaming-related. As an avid gamer, I'm constantly on the lookout for products that not only elevate my gameplay but also fit within my budget. Your diverse range of gaming essentials, from cutting-edge consoles to precision controllers, has exceeded my expectations at every turn. The sheer affordability coupled with the superior quality of your offerings makes shopping here an absolute delight. With each purchase, I'm not just investing in products; I'm investing in an unparalleled gaming experience. Kudos to your team for consistently delivering excellence without compromise!",
+        "name": "Sarah Thompson",
+        "work": "Mechanical Technician"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "title":"ABOUT",
+        "textDES":"Welcome to our store, your ultimate destination for gaming enthusiasts! Dive into a world of endless entertainment and excitement with our vast collection of video games and consoles. Whether you're a casual gamer, a seasoned pro, or somewhere in between, we've got something for everyone.Explore our extensive selection of the latest and greatest games across all platforms, from action-packed adventures to immersive RPGs and thrilling sports simulations. With titles from renowned developers and beloved franchises, the possibilities for gaming adventures are limitless.",
+        "split_point": 226,
+        "shop_bt": {
+            "text1": "Hide text",
+            "text2": "Open the text"
+        },
+        "picture": {
+            "src": "images/img-2.png",
+            "alt": "Gaming"
+        }
+    }
+]

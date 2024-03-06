@@ -1,0 +1,30 @@
+[
+    {
+        "name":"HOME",
+        "textLink":"index.html"
+    },
+    {
+        "name":"ABOUT",
+        "textLink":"index.html#About"
+    },
+    {
+        "name":"OUR PRODUCTS",
+        "textLink":"product.html"
+    },
+    {
+        "name":"VIDEO GAMES",
+        "textLink":"index.html#3D"
+    },
+    {
+        "name":"REVIEW COMMENT",
+        "textLink":"index.html#ConSection" 
+    },
+    {
+        "name":"CREATE AN ACCOUNT",
+        "textLink":"contact.html"
+    },
+    {
+        "name":"CART",
+        "textLink":"cart.html"
+    }
+]

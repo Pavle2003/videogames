@@ -1,0 +1,22 @@
+[
+    {
+        "ID":1,
+        "label":"Name Ascending",
+        "value":"nazivAsc"
+    },
+    {
+        "ID":2,
+        "label":"Name Descending",
+        "value":"nazivDesc"
+    },
+    {
+        "ID":3,
+        "label":"Price Ascending",
+        "value":"cenaAsc"
+    },
+    {
+        "ID":4,
+        "label":"Price Descending",
+        "value":"cenaDesc"
+    }
+]

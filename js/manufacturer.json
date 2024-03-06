@@ -1,0 +1,32 @@
+[
+    {
+        "ID":1,
+        "label": "2k Games",
+        "count": " (2)" 
+    },
+    {
+        "ID":2,
+        "label": "EA Sports",
+        "count": " (2)" 
+    },
+    { 
+        "ID":3,
+        "label": "Bandai Namco", 
+        "count": " (3)" 
+    },
+    {
+        "ID":4,
+        "label": "Rock Star", 
+        "count": " (2)" 
+    },
+    { 
+        "ID":5,
+        "label": "Microsoft Games", 
+        "count": " (4)" 
+    },
+    { 
+        "ID":6,
+        "label": "Other Brands", 
+        "count": " (11)" 
+    }
+]

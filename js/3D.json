@@ -1,0 +1,23 @@
+[
+    {
+        "title": "3d video game"
+    },
+    {
+        "text":"remoto control"
+    },
+    {
+        "description":"Buy a variety of games of any genre at affordable prices only at Gamepad"
+    },
+    {
+        "shop_bt": {
+            "link": "#",
+            "text": "Shop Now"
+          }
+    },
+    {
+        "picture": {
+            "src": "images/img-4.png",
+            "alt": "Gamer"
+        }
+    }
+]

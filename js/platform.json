@@ -1,0 +1,32 @@
+[
+    {
+        "ID":1,
+        "label":"PS5",
+        "count":" (7)"
+    },
+    {
+        "ID":2,
+        "label":"PS4",
+        "count":" (7)"
+    },
+    {
+        "ID":3,
+        "label":"Xbox Series X",
+        "count":" (2)"
+    },
+    {
+        "ID":4,
+        "label":"Xbox Series S",
+        "count":" (1)"
+    },
+    {
+        "ID":5,
+        "label":"Xbox One",
+        "count":" (4)"
+    },
+    {
+        "ID":6,
+        "label":"Xbox 360",
+        "count":" (3)"
+    }
+]
